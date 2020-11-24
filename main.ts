@@ -22,5 +22,5 @@ input.onButtonPressed(Button.B, function () {
     basic.clearScreen()
 })
 basic.forever(function () {
-    radio.setGroup(1)
+    radio.setGroup(22)
 })
